@@ -14,9 +14,9 @@ Desenvolvido pela Design Líquido, é um dialeto da linguagem de programação D
 Assim como o Python, ele possui suporte a tipagem dinâmica e orientação a objetos, além de herdar a estrutura de indentação da linguagem para delimitação de blocos de código.
 
 ## Documentação
-Você pode encontrar a documentação do Pituguês (neste repositório)[https://github.com/DesignLiquido/pitugues-docs/wiki]
+Você pode encontrar a documentação do Pituguês [neste repositório](https://github.com/DesignLiquido/pitugues-docs/wiki)
 
 
 ## Contribuição
 Todo o ecossistema em que o Pituguês se encontra é open source e te convidamos a contribuir nele!/
-Você pode encontrar mais informações sobre contribuição (neste repositório)[https://github.com/DesignLiquido/delegua]
+Você pode encontrar mais informações sobre contribuição [neste repositório](https://github.com/DesignLiquido/delegua)
