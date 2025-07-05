@@ -1,5 +1,5 @@
 # Tutorial de Pituguês
-Este tutorial foi produzido e apresentado durante o evento Python Norte 2025, em Belém do Pará, ofertado pela parceria entre (Cumbuca Dev)[https://cumbuca.dev/] e (Design Líquido)[https://www.designliquido.com.br/].
+Este tutorial foi produzido e apresentado durante o evento Python Norte 2025, em Belém do Pará, ofertado pela parceria entre [Cumbuca Dev](https://cumbuca.dev/) e [Design Líquido](https://www.designliquido.com.br).
 
 No presente repositório consta o exemplo de código usado para ensino do Pituguês durante o evento.
 
