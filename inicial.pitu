@@ -1,0 +1,35 @@
+funcao brincando_com_texto():
+
+    imprima("=====================================")
+    
+    var texto_de_entrada = leia("Digite um texto: ")
+
+    imprima("=============== MENU ===============")
+    imprima("Opção 1 - Contar de palavras")
+    imprima("Opção 2 - Inverter sentido")
+    imprima("Opção 3 - Encontrar letra")
+    imprima("=====================================")
+
+    var opcao_escolhida = leia("Selecione uma opção: ")
+
+    escolha opcao_escolhida:
+        caso '1':
+            var contar_palavras = tamanho(texto_de_entrada.dividir(' '))
+            imprima('Total de palavras: ${contar_palavras}')
+        caso '2':
+            var frase_invertida = texto_de_entrada.inverter()
+            imprima('Texto invertido: ${frase_invertida}')
+        caso '3':
+            var letra = leia('Digite a letra: ')
+            
+            enquanto !texto_de_entrada.inclui(letra):
+                imprima('ERRO - Letra não existe na frase!')
+                letra = leia('Informar outra letra: ')
+            
+            imprima('Letra encontrada! Letra: ${letra}')
+
+        padrao:
+            imprima('Opção inválida!')
+
+brincando_com_texto()
+
